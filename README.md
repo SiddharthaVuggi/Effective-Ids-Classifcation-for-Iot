@@ -4,5 +4,6 @@ While the concept of the Internet of Things affords ubiquity and connection as i
 
 For More Reference - 
 DOI : https://doi.org/10.62441/nano-ntp.v20iS13.91
+
 For Raw Data -
 https://archive.ics.uci.edu/dataset/942/rt-iot2022
